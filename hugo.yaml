@@ -15,3 +15,8 @@ languages:
       linkedin: https://linkedin.com/whoever
     title: My blog
     weight: 2
+params:
+  ShowReadingTime: true
+  ShowBreadCrumbs: false
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
